@@ -1,0 +1,19 @@
+# PDF handling
+pymupdf
+
+# Google Generative AI Agent SDK
+google-adk
+
+# Data processing
+pandas
+numpy
+
+# Web framework (if you later want an API/Frontend)
+fastapi
+uvicorn[standard]
+vercel
+
+# ML (for future scoring/risk models)
+scikit-learn
+
+google-cloud-documentai
