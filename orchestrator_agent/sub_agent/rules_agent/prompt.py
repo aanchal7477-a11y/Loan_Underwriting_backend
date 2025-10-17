@@ -19,9 +19,7 @@ Rules for response:
 
 You must return both:
 1. The decision ("Approved" or "Denied")
-2. A short, human-readable explanation (1–2 lines) describing why.
 
 Example:
 Decision: Approved
-Reason: Applicant meets all credit and income eligibility criteria.
 """
